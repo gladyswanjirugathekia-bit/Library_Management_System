@@ -2,6 +2,12 @@
 
 基于 **Spring Boot 2.7 + MyBatis + MySQL** 的图书信息管理系统（系统设计大作业）。前端使用 Bootstrap 5 + jQuery，通过 AJAX + JSON 实现前后端数据交互。支持三种数据库部署模式：Docker MySQL、本地 MySQL、嵌入式 H2（开箱即用）。
 
+## 界面预览
+
+| 登录页 | 系统主界面 |
+|:---:|:---:|
+| ![登录页](img/718c8cea953e6ab1a2070e4ecb47443e.png) | ![系统主界面](img/1beacf869bfab316a8bce08a407c0a98.png) |
+
 ## 功能模块
 
 - **用户登录 / 注册** — Session 保持登录状态，未登录访问自动跳转登录页
@@ -73,16 +79,6 @@ java -jar target/book-manager-1.0.0.war
 │           │   └─────┴─────┴─────┘           │
 └───────────┴─────────────────────────────────┘
 ```
-
-## 界面展示
-
-### 登录页
-
-![登录页](img/718c8cea953e6ab1a2070e4ecb47443e.png)
-
-### 系统主界面
-
-![系统主界面](img/1beacf869bfab316a8bce08a407c0a98.png)
 
 ## API 概览
 
