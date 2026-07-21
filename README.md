@@ -78,11 +78,11 @@ java -jar target/book-manager-1.0.0.war
 
 ### 登录页
 
-![登录页](img/1beacf869bfab316a8bce08a407c0a98.png)
+![登录页](img/718c8cea953e6ab1a2070e4ecb47443e.png)
 
 ### 系统主界面
 
-![系统主界面](img/718c8cea953e6ab1a2070e4ecb47443e.png)
+![系统主界面](img/1beacf869bfab316a8bce08a407c0a98.png)
 
 ## API 概览
 
