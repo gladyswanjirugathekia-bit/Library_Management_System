@@ -1,0 +1,29 @@
+# Maven build artifacts
+target/
+
+# Embedded H2 runtime data
+data/*.mv.db
+data/*.trace.db
+
+# Local-only Spring config (contains DB password)
+src/main/resources/application.yml
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+*.sublime-*
+
+# Claude Code local settings
+.claude/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+*.log
